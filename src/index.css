@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bebas Neue", sans-serif;
+  --font-identity: "Sora", sans-serif;
+  --font-sans: "DM Sans", system-ui, -apple-system, sans-serif;
+
+  --color-cream: #F4F1EA;
+  --color-cream-deep: #EAE5DB;
+  --color-anthracite: #111827;
+  --color-electric: #2878F0;
+  --color-coral: #F07855;
+  --color-muted: #858585;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    background-color: #F4F1EA;
+    color: #111827;
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-identity);
+    text-wrap: balance;
+  }
+}
+
+/* Subtle graffiti-inspired layered editorial offset shadow for selected identity titles */
+.editorial-offset-shadow {
+  text-shadow:
+    3px 3px 0px #2878F0,
+    6px 6px 0px rgba(240, 120, 85, 0.42);
+}
+
+.editorial-offset-shadow-subtle {
+  text-shadow:
+    2px 2px 0px rgba(40, 120, 240, 0.28),
+    4px 4px 0px rgba(240, 120, 85, 0.16);
+}
+
+/* Marquee seamless track animation */
+@keyframes marquee-scroll {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 42s linear infinite;
+  will-change: transform;
+}
+
+.marquee-wrapper:hover .marquee-track,
+.marquee-wrapper:focus-within .marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,1148 @@
+# FINAL MASTER PROMPT — CYBERSECURITY PORTFOLIO CONTENT UPDATE & VISUAL INTEGRATION
+
+## Marius RAMANANOLO
+
+I want you to carefully update my existing personal portfolio to make it a professional, accurate and visually compelling portfolio for an internship application in cybersecurity and data protection.
+
+This is a **content update and visual integration task, NOT a redesign**.
+
+My portfolio already exists. You must work on the existing project, preserve its implementation and visual identity, and modify only the content and visual elements necessary to make it relevant to the cybersecurity internship opportunity.
+
+The objective is to present my genuine academic background, professional experience, technical skills, software projects and cybersecurity practical work in a coherent and convincing way.
+
+Do not invent information, exaggerate my experience, add random technologies, create fake projects or remove genuine accomplishments.
+
+---
+
+# 1. GLOBAL DESIGN — PRESERVE THE EXISTING PORTFOLIO
+
+Preserve the existing portfolio's visual identity and implementation:
+
+- Editorial Tech aesthetic.
+- Cream, Anthracite, Electric Blue and Coral color palette.
+- Existing typography and typography hierarchy.
+- Existing editorial layouts and Bento Grid structure.
+- Existing navigation and interactive elements.
+- Existing animations and transitions.
+- Existing EN / FR language selector.
+- Existing responsive desktop, tablet and mobile layouts.
+- Existing components, routing and application architecture.
+
+Do not rebuild the portfolio from scratch.
+
+Do not replace the existing design with a generic cybersecurity template.
+
+Do not introduce an entirely new visual identity.
+
+Do not unnecessarily replace existing components or libraries.
+
+Only modify the content, project presentation, relevant images, documentation links and visual integrations required by this prompt.
+
+The final portfolio must remain recognizable as my existing portfolio.
+
+## Visual objective
+
+Make the portfolio feel like a premium software engineering and cybersecurity portfolio.
+
+It should communicate:
+
+- Technical competence.
+- Professional maturity.
+- Practical experience.
+- Attention to detail.
+- Security awareness.
+- Authenticity.
+- A clear interest in cybersecurity and data protection.
+
+Use elegant visual treatments, subtle motion, well-organized technical information and authentic project evidence.
+
+Avoid excessive effects, generic hacker imagery, random terminal decorations and unnecessary descriptions.
+
+---
+
+# 2. HEADER AND HERO SECTION
+
+Keep the existing navigation:
+
+Home | About | Experience | Skills | Projects | Education | Contact
+
+Keep the language selector and Let's Talk button.
+
+## Name
+
+MARIUS RAMANANOLO
+
+## Professional title
+
+Replace the current title with:
+
+SOFTWARE DEVELOPMENT · CYBERSECURITY · IT SYSTEMS
+
+## Introduction
+
+Replace the current introduction with:
+
+Building practical digital solutions with an interest in software engineering, application security, IT infrastructure and data protection.
+
+Keep:
+
+- Explore My Work
+- Get In Touch
+
+## Personal portrait — important
+
+I will upload my actual personal portrait photograph.
+
+Use this exact photograph in the Hero section.
+
+### Background removal and integration
+
+- Remove the background from my uploaded portrait.
+- Create a clean and natural subject cutout.
+- Preserve my actual facial appearance, identity, skin tone, hair, clothing and proportions.
+- Do not generate a replacement portrait.
+- Do not alter my face or make me look like another person.
+- Do not use a generic stock photograph.
+- Do not apply excessive retouching.
+- Do not create an artificial or unrealistic appearance.
+
+Integrate the cutout naturally into the existing Hero composition.
+
+The portrait should appear as though it belongs directly to the website's visual design.
+
+Use a professional editorial crop, subtle framing and appropriate responsive positioning.
+
+If technically possible, use a transparent background for the cutout.
+
+The image may overlap subtly with the existing Hero background or decorative elements, but it must remain visually clean and professional.
+
+Ensure the portrait works correctly on desktop, tablet and mobile.
+
+Do not redesign the entire Hero section to accommodate the photograph.
+
+## Technology ticker
+
+Keep the existing animated technology ticker.
+
+Remove duplicated entries and unconfirmed technologies.
+
+Use:
+
+Java · Spring Boot · React · Next.js · TypeScript · Python · FastAPI · PostgreSQL · SQL · Git · REST APIs · Spring Security · JWT · Linux
+
+Do not include Tailwind CSS as a professional experience technology.
+
+Do not add technologies simply because they are commonly used in cybersecurity.
+
+---
+
+# 3. ABOUT SECTION
+
+Keep section number 01.
+
+Title:
+
+About Me
+
+Subtitle:
+
+Beyond The Code.
+
+Replace the biography with:
+
+My name is Marius RAMANANOLO. I completed my Licence-level studies in Software Ecosystem at HEI Madagascar and I am currently pursuing a Master 1 in Information Cyber Security at ESTI Madagascar.
+
+I have practical experience in web application development, including frontend and backend development, database management, REST API integration and application access control.
+
+My development experience has helped me understand how software systems work, from user interfaces and backend architecture to databases and server environments.
+
+Through my academic studies and practical projects, I have developed an interest in application security, cryptography, Linux administration and data protection.
+
+I am currently looking to deepen my cybersecurity knowledge through practical professional experience and contribute to real security-related projects.
+
+## Information cards
+
+Update the information cards:
+
+- Current Focus: Software Development & Cybersecurity
+- Academic Background: Software Ecosystem
+- Professional Experience: Web Application Development
+- Main Interests: Application Security, IT Infrastructure & Data Protection
+
+## Technical architecture illustration
+
+Keep the existing technical architecture illustration.
+
+Correct its content to:
+
+APPLICATION SECURITY LAYER
+
+BACKEND ARCHITECTURE & APIs
+
+Java · Spring Boot · REST APIs · PostgreSQL
+
+USER INTERFACE LAYER
+
+React · Next.js · TypeScript
+
+Replace:
+
+Full-Stack · Secure by Design
+
+With:
+
+Software Development · Application Security
+
+Do not suggest that I have professional expertise in secure-by-design architecture beyond my actual experience.
+
+---
+
+# 4. EXPERIENCE SECTION — PROFESSIONAL EXPERIENCE
+
+Keep section number 02.
+
+Title:
+
+Experience
+
+Subtitle:
+
+Experience & Professional Journey.
+
+This section must contain my three actual professional experiences.
+
+My two freelance assignments were real client projects, not personal projects.
+
+Use three separate experience cards, with the most recent experience first.
+
+## EXPERIENCE 01 — NIM MADAGASCAR
+
+Company:
+
+NIM – Nouvelle Institution de Microfinance (NIM S.A.)
+
+Position:
+
+HR Application Developer Intern
+
+Period:
+
+August 2025 – February 2026
+
+Location:
+
+Antananarivo, Madagascar
+
+Description:
+
+Participated in the conception and development of a Human Resources Management System in collaboration with my manager.
+
+The application was developed to centralize HR operations, including employee management, recruitment, leave and absence management, payroll and user administration.
+
+### Key Responsibilities
+
+1. Participated in the initial project conception and requirements discussions with my manager.
+2. Developed frontend and backend application features.
+3. Developed and integrated HR modules, including employee management, recruitment, leave and absence management, payroll and user administration.
+4. Worked with PostgreSQL for database management.
+5. Implemented and maintained authentication and authorization using Spring Security and JWT.
+6. Implemented role-based access control (RBAC) to manage permissions and restrict access to application resources and data.
+7. Used Git and GitHub for source code management.
+
+### Technologies Used
+
+Java, Spring Boot, React, Next.js, TypeScript, PostgreSQL, Spring Security, JWT, REST APIs, Git and GitHub.
+
+### Important corrections
+
+- Do not describe my work as frontend-only.
+- Do not say I merely contributed to an existing application.
+- Do not claim that I independently designed the entire project.
+- The initial conception was discussed with my manager, and we carried out the development.
+- Preserve the dates August 2025 – February 2026 exactly.
+- Do not display the old dates July 28, 2025 – October 31, 2025.
+- Do not display the old three-month duration.
+- Do not invent an exact number of days.
+
+## EXPERIENCE 02 — OHMY.FR
+
+Company / Client Project:
+
+Ohmy.fr
+
+Position:
+
+Freelance Web Developer
+
+Period:
+
+May 2025
+
+Type:
+
+Freelance – Client Project
+
+Description:
+
+Developed an e-commerce website for a client specializing in wholesale food products.
+
+### Responsibilities
+
+- Website development and user interface implementation.
+- Design of a clear and user-friendly browsing experience.
+- Web hosting and DNS configuration.
+- Application deployment using Vercel and domain configuration through IONOS.
+
+### Technologies
+
+React, TypeScript, Vercel, IONOS and DNS configuration.
+
+Make it clear that this was a real freelance assignment for a client, not a personal project.
+
+Do not add unrelated technical responsibilities.
+
+## EXPERIENCE 03 — CUSTOM TRADING INDICATORS
+
+Position:
+
+Freelance Pine Script Developer
+
+Period:
+
+August 2024 – October 2024
+
+Type:
+
+Freelance – Client Project
+
+Description:
+
+Developed customized trading indicators for a client using Pine Script and TradingView.
+
+### Responsibilities
+
+- Development of an EMA 20/50 and Supertrend strategy.
+- Implementation of delayed crossover logic.
+- Integration of multiple validation levels for trading signals.
+- Testing and refinement of the implemented logic.
+
+### Technologies
+
+Pine Script, TradingView.
+
+Clearly identify this as freelance professional experience.
+
+Do not invent the client's identity or claim that I developed a complete trading platform.
+
+---
+
+# 5. SKILLS SECTION
+
+Keep section number 03.
+
+Title:
+
+Capabilities
+
+Subtitle:
+
+My Technical Arsenal.
+
+Keep the existing category filters and skill cards.
+
+Organize the skills into the following categories.
+
+## Category A — Frontend Development
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+## Category B — Backend Development
+
+- Java
+- Spring Boot
+- Python
+- FastAPI
+- REST APIs
+
+## Category C — Databases
+
+- PostgreSQL
+- SQLite
+- SQL
+
+## Category D — Cybersecurity & Access Control
+
+- Spring Security
+- JWT
+- Authentication and Authorization
+- Role-Based Access Control (RBAC)
+- Application Access Control
+- Cryptography fundamentals
+- AES symmetric encryption
+- RSA asymmetric cryptography
+- SHA-256 hashing
+- Digital signatures
+- TLS/HTTPS fundamentals
+- X.509 certificate inspection
+
+Present cryptography and TLS as practical academic knowledge acquired through coursework and laboratory exercises.
+
+Do not label these skills as advanced professional expertise.
+
+## Category E — Systems & Development Tools
+
+- Linux / Ubuntu Server
+- Git
+- GitHub
+- GitHub Actions
+- IntelliJ IDEA
+- Visual Studio Code
+- Jira
+- AWS (S3, EC2)
+- Google Workspace
+
+Only retain technologies that are already confirmed in my portfolio or actual work.
+
+Do not add random tools, infrastructure technologies or cybersecurity products that I have not used.
+
+Do not add DNS as a standalone cybersecurity skill merely to fill the category. DNS may remain in the Ohmy.fr professional experience because it was part of that assignment.
+
+Do not invent Docker, Kubernetes, penetration testing tools, advanced networking tools or other technologies that are not confirmed in my actual experience.
+
+## Category F — Methods & Development Practices
+
+- Agile Methodology
+- Scrum
+- Kanban
+- API Integration
+- Source Code Management
+
+Include Scrum and Kanban in the existing skills interface.
+
+Do not assign artificial proficiency percentages or expert labels.
+
+Do not describe me as a Scrum Master or project manager.
+
+---
+
+# 6. PROJECTS SECTION
+
+Keep section number 04.
+
+Title:
+
+Projects
+
+Subtitle:
+
+Selected Works.
+
+Keep the existing project-card design, including project numbers, status labels, technology tags and overview links.
+
+The project section must now be relevant to my cybersecurity internship application.
+
+Keep my existing software projects and add my genuine cybersecurity practical work.
+
+Do not remove genuine accomplishments.
+
+Do not create fake projects.
+
+Do not classify freelance client projects as personal projects.
+
+## PROJECT 01 — CRYPTOGRAPHY & FILE PROTECTION WITH OPENSSL
+
+Project Type:
+
+Academic Practical Work
+
+Title:
+
+Applied Cryptography with OpenSSL
+
+Description:
+
+A collection of practical cryptography exercises exploring file protection, symmetric encryption, asymmetric encryption, digital signatures and data integrity using OpenSSL.
+
+### Practical Work
+
+- Base64 encoding and decoding.
+- AES-256-CBC file encryption and decryption.
+- Analysis of Salt, Key and Initialization Vector (IV).
+- RSA private and public key generation.
+- Password-protected private keys.
+- RSA encryption and decryption.
+- Digital signature creation and verification.
+- SHA-256 hash calculation.
+- Demonstration of RSA direct-encryption size limitations.
+- Introduction to hybrid encryption using RSA and AES.
+
+### Technologies
+
+OpenSSL, Bash, PowerShell, AES-256-CBC, RSA and SHA-256.
+
+### Documentation
+
+I already have detailed academic practical reports in Google Docs.
+
+Do not rewrite the entire documentation inside the portfolio.
+
+Use the existing documents as the complete technical references.
+
+Create a concise project presentation directly inside the portfolio and provide links to the original Google Docs.
+
+### Exact documentation links
+
+**OpenSSL — Symmetric Encryption and File Protection**
+
+https://docs.google.com/document/d/11pGe51J5PhE1hGmZyA_OvIkZZzJ2cVCg/edit?usp=sharing&ouid=107383648958465148434&rtpof=true&sd=true
+
+**RSA — Asymmetric Cryptography and Digital Signatures**
+
+https://docs.google.com/document/d/1hdPf3gZHoAECEJht6Bgrsm1jbaZpPP_H/edit?usp=sharing&ouid=107383648958465148434&rtpof=true&sd=true
+
+**SHA-256 — Hashing and Cryptographic Integrity**
+
+https://docs.google.com/document/d/10QTd63Sc2botZ6d4NvUPg4uqbaTAj9bF/edit?usp=sharing&ouid=107383648958465148434&rtpof=true&sd=true
+
+Use these exact URLs.
+
+Do not invent alternative links.
+
+Do not replace these documents with newly generated documents.
+
+Display the links with clear labels such as:
+
+- Read the OpenSSL Practical Guide
+- Read the RSA Practical Guide
+- Read the SHA-256 Practical Guide
+
+Open the documents in a new browser tab.
+
+If the Google Docs links require access permissions, preserve the links and do not claim that they are publicly accessible unless verified.
+
+## PROJECT 02 — TLS / HTTPS AND X.509 CERTIFICATE ANALYSIS
+
+Project Type:
+
+Academic Practical Work
+
+Title:
+
+TLS/HTTPS Connection and Certificate Analysis
+
+Description:
+
+A practical investigation of secure HTTPS connections using OpenSSL, including TLS session inspection and X.509 certificate analysis.
+
+### Practical Work
+
+- Establishing TLS connections using OpenSSL s_client.
+- Inspecting server certificates.
+- Identifying certificate Subject and Issuer.
+- Examining certificate validity dates.
+- Inspecting X.509 extensions.
+- Calculating SHA-256 certificate fingerprints.
+- Examining negotiated TLS cipher suites.
+- Comparing HTTPS connections to different servers.
+- Understanding certificate-chain validation and local CA trust.
+
+### Technologies
+
+OpenSSL, TLS, HTTPS and X.509 certificates.
+
+### Documentation
+
+Use the existing Google Docs practical report as the detailed technical guide.
+
+Exact link:
+
+https://docs.google.com/document/d/141E1Ig6s1naBrLTcfoNg4qGkLMFov5Nt/edit?usp=sharing&ouid=107383648958465148434&rtpof=true&sd=true
+
+Display a clear documentation link:
+
+Read the TLS/HTTPS Practical Guide
+
+Open it in a new browser tab.
+
+Do not invent additional TLS experiments or claim that I performed a professional security audit of Google or Microsoft.
+
+These exercises were academic connection and certificate-analysis activities.
+
+## PROJECT 03 — NIM HR MANAGEMENT SYSTEM
+
+Project Type:
+
+Internship Project
+
+Description:
+
+A Human Resources Management System developed to centralize employee management, recruitment, leave and absence management, payroll and user administration.
+
+My Involvement:
+
+Participated in the project conception discussions with my manager and worked on the development of the application, including frontend, backend, database integration and access control.
+
+### Security-related work
+
+- Authentication and authorization with Spring Security and JWT.
+- Role-based access control.
+- Permission management.
+- Restriction of access to application resources and data.
+
+### Technologies
+
+Java, Spring Boot, React, Next.js, TypeScript, PostgreSQL, Spring Security and JWT.
+
+This project must not be described as frontend-only.
+
+## PROJECT 04 — LINUX SERVER ADMINISTRATION LABORATORY
+
+Project Type:
+
+Personal Project
+
+Title:
+
+Linux Server Administration Laboratory
+
+Description:
+
+A personal Ubuntu Server environment used to practice Linux administration, user and permission management, server access controls and basic security configuration.
+
+Technologies:
+
+Linux / Ubuntu Server.
+
+Only display actual operations and screenshots that I have genuinely performed.
+
+Do not invent advanced infrastructure, production deployments or professional system administration experience.
+
+If no genuine screenshot is available, use a clean visual placeholder consistent with the existing portfolio.
+
+## PROJECT 05 — STOCK MANAGER
+
+Status:
+
+In Development
+
+Project Type:
+
+Freelance Client Project
+
+Client Context:
+
+Commissioned by a local client in Madagascar.
+
+Description:
+
+A stock management application designed to manage inventory, stock movements, sales and seller stock assignments, with synchronization capabilities.
+
+Technologies:
+
+Next.js, TypeScript, Python, FastAPI, SQLite and Google Drive API.
+
+Important:
+
+- This is a freelance assignment commissioned by a real local client.
+- Do not classify it as a personal project.
+- Do not invent the client's name.
+- Keep the In Development status.
+- Do not present this project as completed.
+
+## PROJECT 06 — OHMY.FR
+
+Project Type:
+
+Freelance Client Project
+
+Description:
+
+An e-commerce website for wholesale food products, developed as a freelance client assignment.
+
+Technologies:
+
+React, TypeScript, Vercel, IONOS and DNS configuration.
+
+Keep the existing Visit Ohmy.fr link if it is already correctly configured.
+
+Keep this project card concise because the professional responsibilities are already explained in Experience.
+
+## PROJECT 07 — STOCK MATCHER
+
+Status:
+
+Concept / In Planning
+
+Description:
+
+A stock market monitoring concept designed to scan financial markets and identify stocks according to selected market and valuation criteria.
+
+Technologies:
+
+JavaScript / TypeScript, Twelve Data API and WebSockets.
+
+Keep its Concept / In Planning status.
+
+Do not present it as a finished application.
+
+Keep Stock Matcher and Stock Manager as two distinct projects.
+
+Never mix their descriptions, screenshots, technologies or statuses.
+
+---
+
+# 7. CYBERSECURITY PROJECT PRESENTATION — VISUAL DESIGN
+
+The cybersecurity projects must receive a professional visual presentation that matches the existing Editorial Tech design.
+
+Do not create a separate website or a completely different design system.
+
+Use the existing project cards and overview functionality.
+
+For the OpenSSL and TLS projects, provide an expanded project presentation or overview panel containing:
+
+1. Project title and academic status.
+2. Short technical introduction.
+3. Main practical objectives.
+4. Cryptographic or TLS concepts covered.
+5. Actual screenshots from my practical work.
+6. A short explanation of the results.
+7. Links to the original Google Docs.
+8. A clear indication that these are academic practical exercises.
+
+## Visual elements
+
+Use:
+
+- Real screenshots from my documents.
+- Actual terminal outputs.
+- Technical diagrams where useful.
+- Elegant project cards.
+- Subtle borders and shadows.
+- Consistent spacing.
+- Existing portfolio colors.
+- Professional typography.
+- Responsive image layouts.
+
+The design may include subtle technical motifs related to cryptography, secure communication or data protection.
+
+Do not use generic stock images as substitutes for actual project evidence.
+
+Do not generate fake terminal screenshots.
+
+Do not fabricate command outputs.
+
+Do not invent audit reports or vulnerability findings.
+
+## Project animations
+
+Use subtle and professional animations:
+
+- Smooth card reveal.
+- Gentle image transitions.
+- Subtle hover effects.
+- Smooth opening of project details.
+- Elegant transitions between project screenshots.
+
+Respect reduced-motion preferences.
+
+Do not add excessive animation or distracting effects.
+
+---
+
+# 8. PROJECT IMAGES — EXACT IMAGE MAPPING
+
+I will upload actual screenshots of my applications and practical work.
+
+Use the uploaded images according to the following mapping.
+
+## NIM HR Management System
+
+- 3 real screenshots.
+- All three images belong to the NIM HR Management System.
+- Display them together in the NIM project gallery.
+
+## Stock Manager
+
+- 1 real screenshot.
+- Display it under Stock Manager.
+
+## Ohmy.fr
+
+- 1 real screenshot.
+- Display it under Ohmy.fr.
+
+## Stock Matcher
+
+- 2 real screenshots.
+- Both images belong to Stock Matcher.
+- Display them together in the same project gallery.
+
+## OpenSSL / Cryptography
+
+I will also upload screenshots from my OpenSSL practical exercises.
+
+Use the actual uploaded images to illustrate:
+
+- AES encryption and decryption.
+- RSA key generation and signature verification.
+- SHA-256 hashing.
+- Other genuine operations visible in the uploaded screenshots.
+
+Associate each screenshot with the correct cryptography topic.
+
+## TLS / HTTPS
+
+I will upload screenshots from my TLS and X.509 practical exercises.
+
+Use them to illustrate:
+
+- TLS connection inspection.
+- Certificate information.
+- Certificate fingerprints.
+- Negotiated TLS parameters.
+
+## Linux Server Administration Laboratory
+
+Use genuine screenshots of my Ubuntu Server environment or terminal only if I provide them.
+
+## Image integration requirements
+
+1. Use my uploaded images as the primary visual references.
+2. Never replace real project screenshots with generic stock images.
+3. Never generate fake application interfaces.
+4. Never pretend that a concept is a completed product.
+5. Associate every image with the correct project.
+6. Do not duplicate images between projects.
+7. Preserve the original screenshot content.
+8. Use consistent image ratios and responsive sizing.
+9. Keep important terminal output readable.
+10. Use suitable object-fit behavior.
+11. Optimize image loading without unnecessarily reducing image quality.
+12. Avoid layout shifts while images load.
+13. Use appropriate accessibility descriptions.
+14. Do not expose confidential client information, employee data, passwords, tokens or private database information.
+
+If a required image has not been provided, keep a clean placeholder with the existing visual style.
+
+Do not invent a replacement.
+
+---
+
+# 9. ANIMATED PROJECT IMAGE GALLERIES
+
+Keep the existing project-card design and implement polished image galleries where appropriate.
+
+### Exact image counts
+
+| Project | Images | Presentation |
+|---|---:|---|
+| NIM HR Management System | 3 | Interactive gallery |
+| Stock Manager | 1 | Single polished preview |
+| Ohmy.fr | 1 | Single polished preview |
+| Stock Matcher | 2 | Interactive gallery |
+| OpenSSL / Cryptography | Uploaded screenshots | Technical gallery |
+| TLS / HTTPS | Uploaded screenshots | Technical gallery |
+| Linux Server Laboratory | Only if provided | Single preview or gallery |
+
+### Gallery behavior
+
+For projects with multiple images:
+
+- Smooth transitions between screenshots.
+- Subtle fade or slide animations.
+- Previous and next navigation arrows.
+- Pagination indicators showing the current image.
+- Optional thumbnail navigation when appropriate.
+- Pause automatic transitions while the user is interacting.
+- Manual navigation on desktop and mobile.
+- Touch/swipe gestures on mobile devices.
+
+For projects with only one image, display a polished preview without unnecessary carousel controls.
+
+### Technical requirements
+
+- Reuse the existing animation library or carousel component if available.
+- Do not introduce unnecessary dependencies.
+- Preserve existing project navigation.
+- Keep gallery controls accessible.
+- Respect reduced-motion preferences.
+- Avoid excessive autoplay.
+- Do not break existing overview links.
+
+---
+
+# 10. EDUCATION SECTION
+
+Keep section number 05.
+
+Title:
+
+Education
+
+Subtitle:
+
+Academic Background.
+
+## CURRENT STUDIES
+
+Master 1 in Information Cyber Security
+
+ESTI Madagascar
+
+Period:
+
+2026 – Present
+
+Description:
+
+Currently pursuing a Master 1 in Information Cyber Security, developing knowledge in information security, system protection, application security and related technical subjects.
+
+Remove:
+
+- Fourth-year Student.
+- Engineering / Degree Track in Cybersecurity.
+- Institution — [University / School Name].
+- Any invented academic specialization.
+
+## PREVIOUS ACADEMIC BACKGROUND
+
+Licence in Software Ecosystem
+
+HEI Madagascar
+
+Period:
+
+January 2023 – 2025
+
+Description:
+
+Completed Licence-level studies in Software Ecosystem, building academic foundations in software development, programming, databases, web technologies and software engineering.
+
+Important:
+
+I completed my Licence studies, but the diploma has not been confirmed as awarded.
+
+Do not claim that I already hold an officially awarded Bachelor's degree.
+
+Do not describe the HEI program as exclusively focused on web development.
+
+---
+
+# 11. CONTACT SECTION
+
+Keep section number 06.
+
+Title:
+
+Contact
+
+Subtitle:
+
+Let's Build Something Together.
+
+Keep the existing introduction:
+
+Have a project, an opportunity or an idea you'd like to discuss? I'd be happy to connect.
+
+Use the following real contact information:
+
+Name:
+
+Marius RAMANANOLO
+
+Email:
+
+ramananolo44@gmail.com
+
+Phone:
+
++261380638399
+
+Location:
+
+Antananarivo, Madagascar
+
+LinkedIn:
+
+https://www.linkedin.com/in/ramananolo-marius-217039364/
+
+GitHub:
+
+Use the existing configured GitHub URL if available.
+
+Do not invent a profile URL.
+
+Remove all fake contact details and placeholders.
+
+Keep the existing contact form:
+
+- Name
+- Email
+- Subject
+- Message
+- Send Message
+
+Do not change the existing form functionality or submission logic.
+
+---
+
+# 12. LANGUAGES
+
+Display:
+
+- French — Intermediate
+- English — Intermediate
+
+Do not invent language certifications or claim advanced proficiency.
+
+---
+
+# 13. FOOTER
+
+Keep the existing footer layout.
+
+Name:
+
+Marius RAMANANOLO
+
+Professional title:
+
+Software Development · Cybersecurity · IT Systems
+
+Description:
+
+Interested in software development, application security, IT infrastructure and data protection.
+
+Keep:
+
+- Navigation links.
+- LinkedIn link.
+- Existing GitHub link if configured.
+- EN / FR selector.
+- Back to top.
+- Copyright information.
+
+Update the year dynamically if the existing implementation already supports it.
+
+Otherwise, keep the existing copyright format.
+
+---
+
+# 14. ENGLISH AND FRENCH CONSISTENCY
+
+My portfolio has an English/French language selector.
+
+Make sure all corrected information is translated consistently into both languages.
+
+Do not translate:
+
+- My name.
+- Company names.
+- Project names.
+- Technology names.
+- Actual dates.
+- Google Docs URLs.
+
+The French version must accurately communicate the same professional experience and academic background as the English version.
+
+Ensure that:
+
+- The French version does not contain outdated information.
+- The English version does not contain outdated information.
+- Both versions use consistent job titles and project descriptions.
+- Both versions accurately describe the cybersecurity practical work.
+- The language selector continues to work.
+- No unnecessary descriptions are repeated across sections.
+
+---
+
+# 15. FINAL VALIDATION
+
+Before completing the changes, review the entire portfolio.
+
+## Content verification
+
+Check that:
+
+- My real identity is displayed everywhere.
+- My current academic level is Master 1 at ESTI.
+- My previous Licence studies at HEI are accurately represented.
+- My NIM internship dates are August 2025 – February 2026.
+- My NIM experience includes frontend and backend development, database integration and access control.
+- My two freelance client assignments are listed under professional experience.
+- Stock Manager is correctly identified as a freelance assignment commissioned by a local client in Madagascar.
+- My freelance work is not incorrectly categorized as personal experience.
+- My Linux Server Laboratory is categorized as a personal project.
+- My cryptography and TLS work is categorized as academic practical work.
+- My OpenSSL, RSA, SHA-256 and TLS documentation links are correct.
+- Scrum and Kanban appear in the skills section.
+- My skills correspond to actual technologies and experience.
+- Stock Manager and Stock Matcher remain distinct projects.
+- All fake placeholders are removed.
+- My email and LinkedIn information are correct.
+- Both language versions are consistent.
+
+## Image and visual verification
+
+Check that:
+
+1. My actual personal photograph appears in the Hero section.
+2. The portrait background has been removed cleanly.
+3. My facial appearance remains authentic.
+4. The three NIM screenshots appear in the NIM project gallery.
+5. The Stock Manager screenshot appears under Stock Manager.
+6. The Ohmy.fr screenshot appears under Ohmy.fr.
+7. Both Stock Matcher screenshots appear under Stock Matcher.
+8. OpenSSL screenshots appear under the correct cryptography project.
+9. TLS screenshots appear under the TLS project.
+10. No images have been assigned to the wrong project.
+11. No screenshots have been duplicated between projects.
+12. All multi-image galleries have smooth and functional navigation.
+13. Single-image projects do not display unnecessary carousel controls.
+14. The existing portfolio design and functionality remain intact.
+15. The website remains responsive on desktop, tablet and mobile.
+16. No confidential information is exposed in screenshots.
+
+## Functional verification
+
+Check that:
+
+- Navigation links work.
+- The EN / FR selector works.
+- The Let's Talk button works.
+- The contact form retains its existing functionality.
+- Project overview links work.
+- Google Docs links open correctly in a new tab.
+- Gallery navigation works.
+- Image loading does not cause layout shifts.
+- Existing animations and interactions are preserved.
+- No unnecessary dependencies have been introduced.
+- No existing functionality has been broken.
+
+---
+
+# FINAL PRIORITY
+
+Accuracy over impressive wording.
+
+Authenticity over decorative effects.
+
+Preserve the existing design and functionality.
+
+Do not invent content.
+
+Do not add random technologies or unrelated cybersecurity descriptions.
+
+Use my real photographs, real application screenshots and genuine academic practical work.
+
+My Google Docs files are already detailed technical guides. Use them as the complete documentation and create concise, professional project presentations directly inside the portfolio.
+
+The portfolio must clearly demonstrate my genuine software development experience, my practical cybersecurity learning and my motivation to develop further through an internship in cybersecurity and data protection.
+
+**Do not redesign the portfolio. Do not invent content. Do not replace real project images. Make only the necessary content corrections and visual integrations.**
